@@ -98,11 +98,4 @@ backend
 
 ---
 
-## ✨ Future Improvements
 
-* Pagination & Search
-* Role-Based Access Control
-* React Frontend Integration
-* Deployment
-
----
